@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0035-search-insert-position) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
