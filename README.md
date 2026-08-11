@@ -16,6 +16,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0035-search-insert-position) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamalesh803-pro/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
